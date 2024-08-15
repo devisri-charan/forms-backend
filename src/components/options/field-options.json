@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_options_field_options",
+  "info": {
+    "displayName": "Field Options",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

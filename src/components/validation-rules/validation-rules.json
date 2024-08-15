@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_validation_rules_validation_rules",
+  "info": {
+    "displayName": "Validation Rules"
+  },
+  "options": {},
+  "attributes": {
+    "rule_name": {
+      "type": "string"
+    },
+    "rule_value": {
+      "type": "string"
+    }
+  }
+}
